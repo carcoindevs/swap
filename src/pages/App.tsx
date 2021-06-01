@@ -2,7 +2,7 @@ import React, { Suspense, useEffect, useState } from 'react'
 import { HashRouter, Route, Switch } from 'react-router-dom'
 import styled from 'styled-components'
 import { Credentials, StringTranslations } from '@crowdin/crowdin-api-client'
-import { LangType, Link } from '@pancakeswap-libs/uikit'
+import { LangType, Link, Text } from '@pancakeswap-libs/uikit'
 import AppButton from 'components/AppButton'
 import Popups from '../components/Popups'
 import Web3ReactManager from '../components/Web3ReactManager'
@@ -10,7 +10,6 @@ import Swap from './Swap'
 import { RedirectPathToSwapOnly } from './Swap/redirects'
 import { EN, allLanguages } from '../constants/localisation/languageCodes'
 import { LanguageContext } from '../hooks/LanguageContext'
-import AppLogo from '.Swap/applogo.png'
 import { TranslationsContext } from '../hooks/TranslationsContext'
 
 import UserBlock from '../components/UserBlock'
@@ -152,7 +151,9 @@ export default function App() {
             <Wrapper>
               <StyledNav>
                 <NavContainer>
-                    <AppLogo />
+                  <Text color="white" fontSize="24px" bold>
+                  SafeEyes
+                  </Text>
                     <NavActions>
                       <UserBlock />
                       <AppButton variant="tertiary">
