@@ -8,11 +8,11 @@ const ourDark: DefaultTheme = {
   ...dark,
   colors: {
     ...dark.colors,
-    primary: '#FFC107',
-    primaryBright: '#121212',
-    background: '#121212',
+    primary: '#0068B9',
+    primaryBright: '#0068B9',
+    background: '#525252',
     text: '#fff',
-    textSubtle: '#FFE491',
+    textSubtle: '#0068B9',
     input: 'transparent',
     // borderColor: '#FFC107',
     backgroundDisabled: '#FFE491'
