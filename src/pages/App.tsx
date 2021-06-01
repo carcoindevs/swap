@@ -10,7 +10,7 @@ import Swap from './Swap'
 import { RedirectPathToSwapOnly } from './Swap/redirects'
 import { EN, allLanguages } from '../constants/localisation/languageCodes'
 import { LanguageContext } from '../hooks/LanguageContext'
-import AppLogo from '.Swap/applogo'
+import AppLogo from '.Swap/applogo.png'
 import { TranslationsContext } from '../hooks/TranslationsContext'
 
 import UserBlock from '../components/UserBlock'
