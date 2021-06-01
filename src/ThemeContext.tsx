@@ -15,7 +15,7 @@ const ourDark: DefaultTheme = {
     textSubtle: '#0068B9',
     input: 'transparent',
     // borderColor: '#FFC107',
-    backgroundDisabled: '#FFE491'
+    backgroundDisabled: '#6A2EFF'
   },
   card: { ...dark.card, background: '#2f2f2f' },
   modal: { ...dark.modal, background: '#2f2f2f' },
