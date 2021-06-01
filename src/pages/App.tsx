@@ -11,7 +11,6 @@ import { RedirectPathToSwapOnly } from './Swap/redirects'
 import { EN, allLanguages } from '../constants/localisation/languageCodes'
 import { LanguageContext } from '../hooks/LanguageContext'
 import { TranslationsContext } from '../hooks/TranslationsContext'
-import AppLogo from '../applogo.png'
 import UserBlock from '../components/UserBlock'
 
 import useGetDocumentTitlePrice from '../hooks/useGetDocumentTitlePrice'
