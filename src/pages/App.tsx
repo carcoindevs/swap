@@ -11,6 +11,7 @@ import { RedirectPathToSwapOnly } from './Swap/redirects'
 import { EN, allLanguages } from '../constants/localisation/languageCodes'
 import { LanguageContext } from '../hooks/LanguageContext'
 import { TranslationsContext } from '../hooks/TranslationsContext'
+import AppLogo from '../applogo.png'
 import UserBlock from '../components/UserBlock'
 
 import useGetDocumentTitlePrice from '../hooks/useGetDocumentTitlePrice'
@@ -54,6 +55,21 @@ const NavActions = styled.div`
   > :not(:first-child) {
     margin-left: 16px;
   }
+`
+const AppLogo = styled.div`
+  margin-top: 64px;
+  display: flex;
+  min-height: calc(100vh - 64px);
+  flex-direction: column;
+  width: 100%;
+  padding: 32px 16px;
+  align-items: center;
+  flex: 1;
+  overflow-y: auto;
+  overflow-x: hidden;
+  z-index: 1;
+  justify-content: center;
+  background: url('/images/forklogo.png') no-repeat center center
 `
 
 const BodyWrapper = styled.div`
