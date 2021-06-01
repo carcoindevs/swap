@@ -43,6 +43,14 @@
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xe02df9e3e622debdd69fb838bb799e3f168902c5.png"
     },
     {
+      "name": "SafeEyes Token",
+      "symbol": "SFE",
+      "address": "0xa2A93ea824Dd60c08Be9736Ea749ebD217754f3f",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
+    },
+    {
       "name": "BUSD Token",
       "symbol": "BUSD",
       "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
