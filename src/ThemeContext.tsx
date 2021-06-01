@@ -10,7 +10,7 @@ const ourDark: DefaultTheme = {
     ...dark.colors,
     primary: '#0068B9',
     primaryBright: '#0068B9',
-    background: '#525252',
+    background: '#363636',
     text: '#fff',
     textSubtle: '#0068B9',
     input: 'transparent',
