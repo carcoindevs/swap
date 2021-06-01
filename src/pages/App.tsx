@@ -139,7 +139,7 @@ export default function App() {
   }
 
   useGetDocumentTitlePrice()
-  
+
   return (
     <Suspense fallback={null}>
       <HashRouter>
@@ -155,7 +155,7 @@ export default function App() {
                     <NavActions>
                       <UserBlock />
                       <AppButton variant="tertiary">
-                        <Link href="http://app.bsclaunch.org/pools">APP</Link>
+                        <Link href="https://safeeyes.io/">APP</Link>
                       </AppButton>
                     </NavActions>
                 </NavContainer>
