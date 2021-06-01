@@ -69,7 +69,7 @@ const BodyWrapper = styled.div`
   overflow-x: hidden;
   z-index: 1;
   justify-content: center;
-  background: url('/images/safeeyeslogo.png') no-repeat center center
+  background: url('/images/neuralnetwork.png') no-repeat center center
 `
 
 const Marginer = styled.div`
