@@ -165,6 +165,7 @@ export default function App() {
             <Wrapper>
               <StyledNav>
                 <NavContainer>
+                    <AppLogo />
                     <NavActions>
                       <UserBlock />
                       <AppButton variant="tertiary">
