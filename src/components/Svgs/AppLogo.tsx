@@ -1,7 +1,7 @@
 import React from 'react'
 
 export default function AppLogo() {
-  return <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+  return <svg width="182" height="38" viewBox="0 0 182 38" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path style="fill:#D1EFF2;" d="M256,126.482c112.405,0,205.833,69.333,249.533,113.744c8.623,8.764,8.623,22.784,0,31.547  C461.833,316.185,368.405,385.518,256,385.518S50.167,316.185,6.467,271.774c-8.623-8.764-8.623-22.784,0-31.547  C50.167,195.815,143.595,126.482,256,126.482z"/>
 <circle style="fill:#76B7EB;" cx="256" cy="256" r="129.52"/>
 <path style="opacity:0.1;enable-background:new    ;" d="M188.989,145.145c-37.467,22.697-62.507,63.851-62.507,110.855  c0,71.531,57.987,129.518,129.518,129.518c30.896,0,59.259-10.824,81.521-28.879C140.649,404.433,126.482,215.536,188.989,145.145z"/>
