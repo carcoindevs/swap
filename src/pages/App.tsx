@@ -152,7 +152,7 @@ export default function App() {
               <StyledNav>
                 <NavContainer>
                   <Text color="white" fontSize="24px" bold>
-                  SafeEyes
+                  CarPool Swap
                   </Text>
                     <NavActions>
                       <UserBlock />
