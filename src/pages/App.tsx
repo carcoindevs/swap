@@ -157,7 +157,7 @@ export default function App() {
                     <NavActions>
                       <UserBlock />
                       <AppButton variant="tertiary">
-                        <Link href="https://safeeyes.io/">APP</Link>
+                        <Link href="https://carpool.finance/">APP</Link>
                       </AppButton>
                     </NavActions>
                 </NavContainer>
