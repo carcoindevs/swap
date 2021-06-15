@@ -11,7 +11,7 @@ const ourDark: DefaultTheme = {
     primary: '#b85000',
     primaryBright: '#b85000',
     background: '#ffffff',
-    text: '#fff',
+    text: '#444343',
     textSubtle: '#b85000',
     input: 'transparent',
     // borderColor: '#FFC107',
